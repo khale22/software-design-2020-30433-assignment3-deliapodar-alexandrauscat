@@ -1,0 +1,95 @@
+body {
+  background-color: #d3d5d4;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.footer-top{
+  background-color: #283E51;
+  color: #d3d5d4;
+  padding: 4em;
+}
+.footer-bottom{
+  background-color: #d3d5d4;
+  color: #283E51;
+  padding: 1em;
+}
+.light-text{
+  font-weight: lighter;
+}
+.top-search-bar{
+  background-color: #d3d5d4;
+  border-top: 2px solid #00C49C;
+  padding: 0.5em;
+}
+.text-align{
+  text-align: center;
+}
+.services{
+  padding: 5em;
+}
+.car-icon{
+  margin-right: 7px;
+}
+.carList-row{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.title{
+  color: #283E51;
+}
+.subtitle{
+  color: #626262;
+}
+
+.carlist-table{
+  font-size: 14px;
+}
+/* .table th, .table td {
+  padding: 0;
+  border: none;
+} */
+.price{
+  font-size: 18px;
+  text-align: right;
+}
+.carlist-margin{
+  margin: 1em;
+}
+.singleImage{
+  width: 700px;
+  height: auto;
+  border-radius: 5px;
+}
+.image-n-price{
+  background-color: #fff;
+  padding: 1.5em 0.8em;
+  border: 1px solid #00C49C;
+  border-radius: 5px;
+}
+.one-car-price{
+  text-align: right;
+}
+.feature-highlight{
+  font-size: 16px;
+  font-weight: lighter;
+  margin: 1em;
+  text-align: justify;
+}
+.vin-stock{
+  font-size: 10px;
+  line-height: 2px;
+}
+.admin-car-image{
+  width: 400px;
+  height: auto;
+  border-radius: 5px;
+}
+.table td {
+  border: none;
+  line-height: 1em;
+}
+.social-icons{
+  font-size: 70px;
+  color: red;
+}
